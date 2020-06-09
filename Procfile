@@ -1,1 +1,1 @@
-web: pip install . U && testlewagondatatryme-run
+web: pip install . -U && testlewagondatatryme-run
